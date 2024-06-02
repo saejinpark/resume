@@ -83,6 +83,66 @@
       <td colspan="3"></td>
       <td colspan="2"></td>
     </tr>
+    <tr>
+      <th colspan="12">실무 경력사항</th>
+    </tr>
+    <tr>
+      <th colspan="3">근 무 기 간</th>
+      <th colspan="4">근 무 지</th>
+      <th colspan="3">직 위</th>
+      <th colspan="2">퇴 직 사 유</th>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" colspan="3">~</td>
+      <td colspan="4"></td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" colspan="3">~</td>
+      <td colspan="4"></td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" colspan="3">~</td>
+      <td colspan="4"></td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+    <tr>
+      <th colspan="12">기타 경력사항</th>
+    </tr>
+    <tr>
+      <th colspan="3">근 무 기 간</th>
+      <th colspan="4">근 무 지</th>
+      <th colspan="3">직 위</th>
+      <th colspan="2">퇴 직 사 유</th>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" colspan="3">~</td>
+      <td colspan="4"></td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" colspan="3">~</td>
+      <td colspan="4"></td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" colspan="3">~</td>
+      <td colspan="4"></td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
   </tbody>
   <tfoot>
   </tfoot>
