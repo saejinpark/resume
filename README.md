@@ -145,5 +145,31 @@
     </tr>
   </tbody>
   <tfoot>
+    <tr>
+      <th colspan="2">
+        참 고 사 항
+      </th>
+      <td colspan="10"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td colspan="12">
+        <ul>
+          <p></p>
+          <b>위 기재 사항은 사실과 다름이 없습니다.</b>
+          <p></p>
+          <h3 align="center">
+            2024 년 6 월 2 일
+          </h3>
+          <p></p>
+          <h3 align="right">
+            <u>지원자 :</u>
+            <span></span>
+            <span>X X X</span>
+            <span>(인)</span>
+          </h3>
+        </ul>
+      </td>
+    </tr>
   </tfoot>
 </table>
