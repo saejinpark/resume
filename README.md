@@ -52,8 +52,38 @@
     </tr>
   </thead>
   <tbody>
+    <tr></tr>
+    <tr>
+      <th colspan="12">학 적 사 항</th>
+    </tr>
+    <tr>
+      <th colspan="3">재 학 기 간</th>
+      <th colspan="4">학 교 명</th>
+      <th colspan="3">전 공</th>
+      <th colspan="2">비 고</th>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" colspan="3">~</td>
+      <td colspan="4"></td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" colspan="3">~</td>
+      <td colspan="4"></td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" colspan="3">~</td>
+      <td colspan="4"></td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
   </tbody>
   <tfoot>
-    
   </tfoot>
 </table>
